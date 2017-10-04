@@ -1,2 +1,3 @@
 # ye-studio
-ADI 70XX
+ADI 70XX development libs
+
